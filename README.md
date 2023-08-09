@@ -1,4 +1,4 @@
-# The Last Cruiser
+# Space Guardians
 A Top-Down shooter game project to learn more about the C# and Unity development environment.
 
 ## Software Used
