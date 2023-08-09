@@ -1,5 +1,5 @@
 # The Last Cruiser
-Simple Top-Down shooter project!
+A Top-Down shooter game project to learn more about the C# and Unity development environment.
 
 ## Software Used
 * [Unity Hub](https://unity.com/download)
@@ -22,3 +22,6 @@ Simple Top-Down shooter project!
 - [ ] Multiplayer (Stretch Goal)
 - [ ] Tutorials
 - [ ] Testing & Balance
+
+## Credit
+* [Kevin Dang](https://github.com/kevinthedang)
