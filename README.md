@@ -9,11 +9,6 @@ A Top-Down shooter game project to learn more about the GDScript and Godot Engin
 
 ## Features to Implement
 - [ ] Player
-    - [ ] Movement / Controls
-    - [ ] Weapons
-    - [ ] Abilities
-    - [ ] Health & Shields System
-    - [ ] Upgrade System (Attributes)
 - [ ] Enemies
 - [ ] Levels & Environments
 - [ ] Graphics & Visual Effects
