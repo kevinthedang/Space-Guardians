@@ -1,5 +1,5 @@
 # Space Guardians
-A Top-Down shooter game project to learn more about the C# and Unity development environment.
+A Top-Down shooter game project to learn more about the GDScript and Godot Engine development environment.
 
 [Trello Board](https://trello.com/b/2xzfJTfC/space-game-project)
 
