@@ -11,8 +11,8 @@ The team really wanted to develop a game together for the first time, something 
 
 ## Software Used
 * Game Engines considered:
-      * [Unity v2021.3.32f1](https://unity.com/releases/editor/whats-new/2021.3.32)
-      * [Godot 4](https://godotengine.org/download/)
+    * [Unity v2021.3.32f1](https://unity.com/releases/editor/whats-new/2021.3.32)
+    * [Godot 4](https://godotengine.org/download/)
 * [Aseprite](https://www.aseprite.org/)
 
 ## What We've Learned
