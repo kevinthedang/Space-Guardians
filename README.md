@@ -1,15 +1,18 @@
 # Space Guardians
-A Top-Down shooter game project to learn more about the GDScript and Godot Engine development environment.
+A Top-Down shooter game project to learn more about developing video games with Unity/Godot!
 
 [Trello Board](https://trello.com/b/2xzfJTfC/space-game-project)
 
 ## Description
-The team really wanted to develop a game together for the first time, something simple and fun. We wanted to start developing a fun little thing called D-Squad Studios. This game will be the dawn of (hopefully) the love for developing games.
+The team really wanted to develop a game together for the first time, something simple and fun. We wanted to start developing a fun little thing called D-Squad Studios. This game will be the dawn of (hopefully) the love for developing games!
 
 ## How to Play
+* Soon to add when further features have been implemented.
 
 ## Software Used
-* [Godot 4](https://godotengine.org/download/)
+* Game Engines considered:
+      * [Unity v2021.3.32f1](https://unity.com/releases/editor/whats-new/2021.3.32)
+      * [Godot 4](https://godotengine.org/download/)
 * [Aseprite](https://www.aseprite.org/)
 
 ## What We've Learned
