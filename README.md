@@ -19,7 +19,9 @@ The team really wanted to develop a game together for the first time, something 
 *  #### Large Scale Scripting system:  
       The game will be built to have a lot of moving parts and large suite of abilities. These parts ill all interact with each other throughout the game to register damage, movement, direction. To   build this system we will need interactions between a large amount of scripts simultaneously working together to keep the game running seamlessly. 
 *  #### Godot Engine  
-      This is a free game development engine with a lot of tools, and a new language for us to learn, GDScript. With this will bring challenges of understanding the tools and getting the game working with these tools.
+      This is an open source game development engine with a lot of tools, and a new language for us to learn, GDScript. With this will bring challenges of understanding the tools and getting the game working with these tools.
+*  #### Unity Engine
+      This is a "kinda sorta" free game enginer with a suite of built-in toolss to learn 2D, 3D, and VR development. This engine works with C# and the many challenges that may come with Unity is how complex it may be to use even though we plan to make such a simple game.
 *  #### 2D Game development  
       2D development, while easier than 3D, brings its own challenges to the table. We will need to build the sprites and animations as well as keep the interactions tracked between all the sprites and objects on the screen and move between scenes easily. 
 *  #### Agile Planning  
