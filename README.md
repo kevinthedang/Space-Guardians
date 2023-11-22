@@ -1,4 +1,4 @@
-# Space Guardians
+# Space Guardians [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Release Badge](https://img.shields.io/github/v/release/kevinthedang/Space-Guardians?logo=github)](https://github.com/kevinthedang/Space-Guardians/releases/latest)
 A Top-Down shooter game project to learn more about developing video games with Unity/Godot!
 
 [Trello Board](https://trello.com/b/2xzfJTfC/space-game-project)
@@ -45,3 +45,5 @@ The team really wanted to develop a game together for the first time, something 
 * [Drew Bogdan](https://github.com/DrewBogdan)
 
 The inspiration for this game came from [20 Minutes Till Dawn](https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/).
+
+[Space Guardians](https://github.com/kevinthedang/Space-Guardians/) © 2023 by [Kevin Dang](https://github.com/kevinthedang) is licensed under [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) 
